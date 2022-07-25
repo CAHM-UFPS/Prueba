@@ -1,3 +1,18 @@
+/**
+ * Observaciones:
+ * 1. Buen trabajo
+ * 2. Buena organización y documentación de código
+ * 3. Muestra bien los datos en la tabla
+ * 4. Aplica bien las validaciones de color
+ * 5. El formulario está bien validado respecto a recibir decimales con mas de dos digitos después de la coma
+ * 6. Se realiza bien el cálculo
+ * 7. No se realiza validacion de que no se reciban notas por debajo de 0.0 y superiores a 5.0
+ * 8. No se aplica el redondeo a partir del decimal .95
+ *
+ * Progreso ---> 95% (Buen trabajo, pero recomiendo terminar completamente el ejercicio)
+ */
+
+
 window.addEventListener('load', (e) => {
     /**
      * Clase asigantura
